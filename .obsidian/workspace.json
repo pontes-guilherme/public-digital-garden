@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "199dc877a67e157e",
+        "id": "6f4a6ef537cb071f",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7f28686275315f",
+            "id": "56ff454078909cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,14 +147,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1a7f28686275315f",
+  "active": "56ff454078909cac",
   "lastOpenFiles": [
     "Linux/2. ZSH e Emulador de terminal.md",
+    "Linux/1. Pós-instalação em Dual Boot (Windows).md",
+    "Linux/5. Guia de backup para desenvolvedores.md",
     "Linux/3. Customização, Fontes e Temas.md",
     "Linux/4. Setup para Desenvolvimento.md",
-    "Linux/1. Pós-instalação em Dual Boot (Windows).md",
+    "().md",
     "Sem título.canvas",
-    "2023-01-28.md",
-    "Linux/5. Guia de backup para desenvolvedores.md"
+    "2023-01-28.md"
   ]
 }
