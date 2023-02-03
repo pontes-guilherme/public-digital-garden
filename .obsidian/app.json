@@ -1,5 +1,9 @@
 {
   "spellcheckLanguages": [
-    "en-US"
-  ]
+    "en-US",
+    "pt-BR"
+  ],
+  "showLineNumber": true,
+  "spellcheck": true,
+  "vimMode": false
 }
